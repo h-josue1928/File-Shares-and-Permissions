@@ -39,3 +39,12 @@ On Client-1, as  <someuser>, try to access the accountants folder. It should fai
 Log out of Client-1 as  <someuser>
 On DC-1, make <someuser> a member of the “ACCOUNTANTS”  Security Group
 Sign back into Client-1 as <someuser> and try to access the “accounting” share in \\DC-1\ - Does it work now?
+
+![image](https://github.com/user-attachments/assets/a419c62f-b6e1-4f25-9e2e-e88a9fee4c15)
+
+![image](https://github.com/user-attachments/assets/a8288c8e-4436-4e24-95b2-0ae1d33339ff)
+
+![image](https://github.com/user-attachments/assets/f33ab01c-1b0c-47a5-a2a0-4272b9cd855f)
+
+![image](https://github.com/user-attachments/assets/43cdac3c-7166-49d4-947b-49eb7e1e9eb9)
+
